@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "sidekick",
+  "description": "A learning companion that makes you do the reps.",
+  "owner": {
+    "name": "Zain",
+    "url": "https://github.com/jainulabudeenm"
+  },
+  "plugins": [
+    {
+      "name": "sidekick",
+      "description": "Learn by producing, not reading: quizzes, redo-cold drills, sparring and a spaced-repetition record per topic.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

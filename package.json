@@ -1,0 +1,40 @@
+{
+  "name": "@jainulabudeenm/sidekick",
+  "version": "1.0.0",
+  "description": "Install the Sidekick skill for Claude. A learning companion that makes you recall, explain and do instead of read, and keeps a record of what you know.",
+  "keywords": [
+    "claude",
+    "claude-skill",
+    "claude-code",
+    "learning",
+    "spaced-repetition",
+    "active-recall",
+    "flashcards",
+    "study"
+  ],
+  "author": "Zain Hasan",
+  "license": "MIT",
+  "bin": {
+    "sidekick": "bin/install.js"
+  },
+  "files": [
+    "bin/",
+    "skills/sidekick.skill",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=16"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jainulabudeenm/sidekick.git"
+  },
+  "homepage": "https://github.com/jainulabudeenm/sidekick#readme",
+  "bugs": {
+    "url": "https://github.com/jainulabudeenm/sidekick/issues"
+  }
+}

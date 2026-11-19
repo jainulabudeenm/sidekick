@@ -1,0 +1,9 @@
+{
+  "name": "sidekick",
+  "version": "1.0.0",
+  "description": "A learning companion that makes you recall, explain and do instead of read. Quizzes one question at a time, makes you redo stuck parts cold, and keeps a spaced-repetition record per topic.",
+  "author": {
+    "name": "Zain",
+    "url": "https://github.com/jainulabudeenm"
+  }
+}
